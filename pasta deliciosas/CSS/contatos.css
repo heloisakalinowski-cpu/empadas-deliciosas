@@ -1,0 +1,64 @@
+#Titulo{
+     background-color: aquamarine; 
+     color: black; 
+     text-align: center; 
+     padding: 10px; 
+    
+    }
+    
+#Menu{
+     background-color: gray; 
+     text-align: center; 
+    
+    }
+    
+#Menu a{ 
+    text-decoration: none; 
+    color: black; 
+    padding: 10px; 
+
+}
+
+#Card{
+     width: 70%;
+      background-color: blue; 
+      margin: 40px auto;
+ }
+ 
+ body {
+     font-family: Arial, sans-serif;e { 
+        background-color: aquamarine; } 
+    
+    } 
+
+#contato {
+     max-width: 800px; 
+     margin: 0 auto; 
+     padding: 20px;
+      background-color: rgb(248, 3, 3); 
+    
+} 
+input, textarea, select { 
+    border: 2px solid #000000;
+     border-radius: 4px; 
+
+} 
+
+
+h2 { color: #f394ff; } 
+
+input, select, textarea {
+    width: 100%; 
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+     border-radius: 4px; 
+    } 
+    
+    button {
+         background-color: #a30062;
+        color: rgb(87, 12, 71); 
+        padding: 10px 40px;
+        border: none; 
+        cursor: pointer; 
+    }

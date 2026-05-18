@@ -1,0 +1,25 @@
+#titulo{
+    background-color: rgb(255, 141, 207);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+
+#menu {
+    background-color: rgb(251, 200, 248);
+    text-align: center;
+    padding: 4px;
+}
+
+#menu a {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+#conteudo-home {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
